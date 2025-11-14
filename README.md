@@ -181,13 +181,5 @@ location / {
 ---
 
 ## 📞 Support
-
-**Developed by:**
-กลุ่มบริหารกิจการนักเรียน
-โรงเรียนวิทยาศาสตร์จุฬาภรณราชวิทยาลัย กำแพงเพชร
-
 **Powered by:** Laravel, Tailwind CSS, Sarabun Font
 
----
-
-**Made with ❤️ for PCSHS Kamphaeng Phet**
