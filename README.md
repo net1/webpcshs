@@ -1,7 +1,5 @@
 # ระบบบริหารกิจการดิจิทัล (DigM-I)
 
-**School Management System for Princess Chulabhorn's College Kamphaeng Phet**
-
 A modern, responsive web application built with **Laravel** for managing school operations including student records, dormitory management, food supplements, hospital visits, and more.
 
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red.svg) ![PHP](https://img.shields.io/badge/PHP-8.1+-blue.svg) ![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8.svg)
